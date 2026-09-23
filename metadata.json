@@ -1,0 +1,6 @@
+{
+  "name": "scholarshipmatch",
+  "description": "Scholarship matching and mutual-exclusivity conflict detection platform for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
